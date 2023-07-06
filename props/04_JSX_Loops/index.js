@@ -5,6 +5,10 @@ class App extends React.Component {
         <Friend 
           name="Elton"
           hobbies={['Piano', 'Singing', 'Dancing']} />
+
+        <Friend 
+          name="Fredy"
+          hobbies={['Boxing', 'Singing', 'Dancing']} />
       </div>
     )
   }
